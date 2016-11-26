@@ -1,0 +1,1 @@
+<p>Detail of Payment History</p>
